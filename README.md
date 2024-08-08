@@ -7,11 +7,11 @@ This Project Task: Use the Iris dataset for binary classification by considering
 
 
 <p align="center">
-  <img title="Fig1" height="350" src="images/Figure_1.png">
+  <img title="Fig1" height="410" src="images/Figure_1.png">
   <br />
-  <img title="Fig2" height="150" src="images/Figure_2.png">
+  <img title="Fig2" height="410" src="images/Figure_2.png">
   <br />
-  <img title="Fig3" height="150" src="images/Figure_3.png">
+  <img title="Fig3" height="410" src="images/Figure_3.png">
 </p>
 
 

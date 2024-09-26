@@ -5,6 +5,8 @@ The Iris dataset is a classic dataset in machine learning and consists of 150 sa
 
 This Project Task: Use the Iris dataset for binary classification by considering only two classes. Train your perceptron on this dataset and compare its performance with the sklearn Perceptron class.
 
+  <br />
+# star if you like it ✨
 
 <p align="center">
   <img title="Fig1" height="410" src="images/Figure_1.png">
